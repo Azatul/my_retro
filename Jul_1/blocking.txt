@@ -1,0 +1,3 @@
+The blocking is that we cannot run the command in ther cursor terminal while doing the mix ecto.create.
+The solution is that we need to change it into a command prompt.
+There are a few errors but it was solved by the help of chatGPT.

@@ -1,0 +1,9 @@
+Today we learn how to update the file in our local files into the remote GitHub repository.
+We do it by using the GitBash and just follow the instructions in the GitHub repository we created.
+Then, we open cursor to update the change we made in cursor easily by using the commit change in the Git icon.
+We need to sync and it will be updated in our repository.
+Next we proceed with the mix phx.gen.live to generate the Liveview CRUD interface.
+We also use the command mix ecto.migrate and iex -S mix phx.server.
+We do this by first asking chatGPT on how to create the command with its fields and fieldstype.
+Then in the router we change the code by also using the code the chatGPT provided and make sure the router code is same.
+Start the server with  iex -S mix phx.server.

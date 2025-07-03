@@ -1,0 +1,5 @@
+Yesterday, we are given the inroduction to the Software Development programme.
+We learned how to use the git command in GitBash to save the file from GitHub into the local file.
+We use git clone, git add, git commit and git push.
+The change we made in Cursor is updated into the GitHub using a GitBash.
+We also learn how we can study by only using chatGPT. 
