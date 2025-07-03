@@ -1,0 +1,2 @@
+The blocking for today's learning is that when there is an error while doing the mix phx.migrate
+A few errors and we ask chatGPT and also forgetting the step on how to do things but managed to solve it by doing a few try and error.

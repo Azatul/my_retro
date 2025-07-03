@@ -3,3 +3,4 @@ We learned how to use the git command in GitBash to save the file from GitHub in
 We use git clone, git add, git commit and git push.
 The change we made in Cursor is updated into the GitHub using a GitBash.
 We also learn how we can study by only using chatGPT. 
+We can also use the cursor's chat to get AI help on how to make a code.
