@@ -1,4 +1,4 @@
-Today we learn how to create another folder inside another folder using GitBash.
+Yesterday we learn how to create another folder inside another folder using GitBash.
 And also how to add a txt document into the created folder.
 We then proceed with the installation of Phoenix Framework.
 Firstly, we download the required installation package for Elixir and Erlang. 
