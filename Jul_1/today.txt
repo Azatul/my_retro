@@ -1,0 +1,12 @@
+Today we learn how to create another folder inside another folder using GitBash.
+And also how to add a txt document into the created folder.
+We then proceed with the installation of Phoenix Framework.
+Firstly, we download the required installation package for Elixir and Erlang. 
+Erlang is required to install the Elixir.
+Phoenix is a web framework which is written in Elixir programming language.
+Erlang is the runtime that powers Elixir and phoenix with amazing concurrency and uptime.
+We followed the tutorial video provided on how to set up and do the installations.
+Then, we installed the postgresSQL and we need to remember our password.
+The last installation is for Node.js that is compatible with our installed phoenix framework version.
+Next, we also learn how to use the command prompt to create a new app files and also do a test run to see the framework using the cursor.
+Lastly, we also learn how to use AI which are Lovable and ChatGPT to brainstorm ideas on how to build a web.
