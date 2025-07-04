@@ -1,0 +1,8 @@
+Yesterday we already done our first assignment which is the presentation about a command in the cursor terminal which is mix phx.gen.server.
+This command help us to build a few files that will help generate the Liveview CRUD interface. 
+Let's say we run the command mix phx.gen.live Account Users user name:string age:integer.
+Account is the context module, Users is the schema name, user is the table name, name and age is a fields and string and integer is the fields type.
+After we run the command, we will need to do a migration to create the table for the user.
+The command used is mix ecto.migrate and then after we run the server by using the iex -S mix phx.server command, we will get the liveview CRUD interface.
+The default URL will be the localhost:4000 and in this interface we only need to add the route name which is the user. 
+So, it will be https//localhost:4000/user.

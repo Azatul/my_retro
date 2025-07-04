@@ -1,0 +1,5 @@
+Today we learn about FIGMA and also Relume.io. These two websites help us to design our website system Wireframe.
+In relume.io, we can generate our system wireframe easily.
+We then can export it into the Figma website and edit it from there.
+The use of chatGPT to generate ideas about our wireframe also helped a lot in understanding how to design the wireframe.
+Homepage is the sale page for our app, it attracts the user to explore the website. So it needed to be attractive.
