@@ -1,0 +1,3 @@
+Today we learnt how to add data manually using the terminal in cursor.
+We use th create_user to create new user, for the Read we have get_user and list_users, for update we have the update_user and for the delet we have the delete_user.
+Fo this we have to validate our parameters.
