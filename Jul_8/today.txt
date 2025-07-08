@@ -1,3 +1,6 @@
 Today we do the presentation for the frontend of CRUD. 
 Learnt many terms, still need to read more. Also the detailed process and coding.
 A little bit about pattern matching.
+Today we learn how to alter the table we already created in my_app. Using the mix ecto.gen.migration add_users_table.
+Here we need to add the field and fields type in the migrations file we created. 
+To check status of migration we need to use the mix ecto.migrations. If it's up it is migrated and if down not yet.
