@@ -1,0 +1,3 @@
+Today we do the presentation for the frontend of CRUD. 
+Learnt many terms, still need to read more. Also the detailed process and coding.
+A little bit about pattern matching.

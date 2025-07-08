@@ -1,0 +1,3 @@
+Yesterday, we learnt how to create, read, update, and delete data manually from the cursor termina.
+For create we use the function create_user. Let's say our Context is Account, schema is User and table is users.
+mix phx.gen.live Account User users, if we want to create a data in the app named myapp, Myapp.Account.create_user({%})
