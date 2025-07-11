@@ -1,0 +1,2 @@
+Yesterday recap, we already learned how to use a mathematic calculation and determine the category or info from the data calculatedor input.
+Learn how to make a new button.

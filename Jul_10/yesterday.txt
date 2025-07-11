@@ -1,0 +1,1 @@
+Studied immutbility and anonymous functions and also a bit about string functions.

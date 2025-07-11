@@ -1,0 +1,2 @@
+Yesterdy we learn how to do the mix ecto.gen.migration to alter existing table
+Show it in the column

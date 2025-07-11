@@ -1,3 +1,4 @@
 Today's blocking is more to understanding the frontend process for showing the data and what will happen next if we click each button.
 When seeing the detailed version of the presentation, I start to rethink about my part and where does that process really happen.
 Today's blocking is also when trying to run server and it keep saying I haven't migrate when I already did. Ended up making a new test app and it run well.
+Asked chatGPT and followed the steps but still cannot solve.

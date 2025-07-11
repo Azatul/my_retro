@@ -1,0 +1,5 @@
+Today we learn how to create a new button to calculate the BMI for each users.
+Then we also have the presentation for the Elixir basic types and also Tuples and lists.  
+String function also we learn a bit more. 
+Also how to get info from IC number only to know if the id holder a female or male and their origin.
+Understand more about route.

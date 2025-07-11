@@ -1,0 +1,10 @@
+Today we learn about the system analysis and design. 
+We need to remember 4 which is Planning, Analysis, Design and Implementation. 
+In planning we need to know about what our problem is and also how the system help solve the problem. Also determine the user/
+In Analysis it will be a deeper analyisis of the system by useing the chatGPT to get more insights about the system. 
+What user do and what features needed and so on.
+In Design, outline how will the system work and look , the useflow and what data do we need.
+Implementation stage is where the user will satrt to code and develop the system, do etsting, let people use it and get as much feedback for improvement.
+Fix problems and update if needed.
+
+Start planning for our project.

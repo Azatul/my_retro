@@ -1,0 +1,3 @@
+Today we continue with the immutability and anonymous functions.
+About pipe and how to make a column based on new category.
+Also a bit about String functioN

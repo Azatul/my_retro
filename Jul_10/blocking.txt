@@ -1,0 +1,2 @@
+More into the coding for the new component files. 
+Also how to present nicely so that people will understand.
