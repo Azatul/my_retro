@@ -1,0 +1,6 @@
+Today we learnt about HTML, CSS and tailwind fundamentals.
+The concept is easy to understand. But most of the code is done by chatGPT, I only changed a few parts needed.
+The HTML is the skeleton, CSS the skin and tailwind is the mix of CSS into the HTML (just in my understanding).
+In CSS we have three type, inline, internal and external.
+We also come across learning the responsive UI which is to make the screen view neat for other devices. 
+If we use the tailwind, we won't need to have the css files as we edit it straight in the HTML line.
