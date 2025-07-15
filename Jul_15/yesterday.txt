@@ -1,0 +1,4 @@
+Yesterday we leanrt about HTML, CSS and tailwind. 
+I enjoyed this topic because I can try many html and get a result by chatGPT help.
+Still need to learn more about the <head> etc 
+Can easily change the design for a page. 

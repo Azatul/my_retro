@@ -1,0 +1,6 @@
+Today we leearn about the relationship between two table. 
+It's to link between two table. From a new table to an existing table.
+using the mix phx.gen.live too but only add a user_id:references:users at the end.
+Here we created a table named posts Content Post posts title:string body:text.
+Next we also learnt how to have user name in drop down in the table.
+one to many, one to one is the type of relationship we have learnt.
