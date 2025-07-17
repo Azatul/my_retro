@@ -1,0 +1,3 @@
+The topic I got is simple so I can understand easier with the help of chatGPT, which is Enum.each.
+Know more about enum. enum.filter and so on.
+commonly used enum. Will try to implement in out=r project or test project.

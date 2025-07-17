@@ -1,0 +1,3 @@
+Toay most of the learning for coding is the same like the previous day. Using the preload to show user's list in the form.
+And also books id.
+Many-many relationship between loan, book and user.

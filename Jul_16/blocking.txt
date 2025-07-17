@@ -1,0 +1,6 @@
+Today's blocking is more to error in codding.
+The first error happen because I put the data before adding the user name column into the lisitng loans and thus the system shows map error.
+Can be fixed by deleting the loan data first and then try to run agauin. 
+Actually before I got into this I got into more error such as I forgot to add a few things in a few files and then also has made a mistake in a few parts but managed to get by itby comparing.
+Since the first time I can't get it, I tried again and redo a second app. Then this time the error is the save buuton cannot be clocked.
+I can't solve also and do a third time, this time I compare the files carefully with how sir did it and can finally run it.
