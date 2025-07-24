@@ -1,0 +1,1 @@
+Today we learn about authentication for user. We have user with different roles which is admin or maybe user.
