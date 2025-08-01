@@ -1,0 +1,2 @@
+I think for the params still in the same params even after clicking another menu in the sidebar. Need to dig more.
+Not much blocking for today. Finally got th eone auth for two roleS. It's actually so simple... yet so confusing but still trying to understand it even more. 

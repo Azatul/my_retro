@@ -1,0 +1,2 @@
+Dashboard redirect for liveview.
+Before used the html only but after asking chatGPT, liveview is better than pageview for a liveview one. 

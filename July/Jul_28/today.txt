@@ -1,0 +1,4 @@
+Today we continue with our authentication by creating admin dashboard.
+Can't do the sidebar with menu yet since still trying to do the authentication with two roles.
+But can already do the redirection to two dashboard for admin and users with two auth.
+Created sidebar.

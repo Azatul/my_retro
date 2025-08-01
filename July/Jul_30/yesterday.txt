@@ -1,0 +1,2 @@
+Yesterday, struggled doing one auth with two roles. 
+Still struggle but bearable.

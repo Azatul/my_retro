@@ -1,0 +1,2 @@
+Toda we make the design for our system in figma.
+Mostly dashboard for admin and user and landiong page or login page is done. Still need to continue to design other pages.

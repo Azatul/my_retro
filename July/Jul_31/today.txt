@@ -1,0 +1,4 @@
+Finally done with one auth for two roles. 
+Also done with search bar filtering and its documentation.
+Understand a little bit more with the help of chatGPT Elixir Expert.
+I realized that I often use the non expert chatGPT and forgot the existence of Elixir Expert.
