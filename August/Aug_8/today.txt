@@ -1,0 +1,5 @@
+Today we continue with Figma design, learnt about modal, pop up and hover. 
+Modal is usually for form where user need to click on cancel button etc first before it collapse.
+Hover is when we move the cursor to the area will show the hover, mostly only for view.
+Pop up is the message after clicking delete, save etc. A notofication that will hover for a while and then gone.
+Almost done with our design, but mostlyu are already done. Still need to be reviewed by our instructor.

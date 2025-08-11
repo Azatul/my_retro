@@ -1,0 +1,3 @@
+Today we proceed by doing our Figma design.
+We use the lovable dev prompt as a references to make the design. 
+So far already done for admin bookings page for foru type of bookings.

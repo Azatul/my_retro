@@ -1,0 +1,3 @@
+Today we learn how to convert our design into our app using the plugs in in Figma and then AI in the cursor from Nathaniel.
+Test it using a test app first. 
+Managed to create the login page.

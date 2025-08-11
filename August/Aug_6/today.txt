@@ -1,0 +1,2 @@
+Today we continue with our figma design. Already done with the login page and also for the booking page.
+A bit correction from our instructor on what to fix.
