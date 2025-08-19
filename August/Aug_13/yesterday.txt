@@ -1,0 +1,1 @@
+Yesterday we did the HTML Tailwind CSS to create the login page design in figma. mad ethe login page as landing page.

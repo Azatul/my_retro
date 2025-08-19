@@ -1,0 +1,3 @@
+Today we continue with the task pull request. 
+Approved and move on to the CRUD liveview.
+Leanrt how to merge the index.ex and index.html.heex

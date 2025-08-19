@@ -1,0 +1,5 @@
+Learn more about the git pull.
+Git checkout main.
+Git checkout branch that is already in git hub and also the authentication is approved.
+Redirect to admin and user's dashboard also done.
+The reusable sidebar for admin and user also done.

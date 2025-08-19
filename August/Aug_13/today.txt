@@ -1,0 +1,2 @@
+Today do the authentication with two roles default user and admin.
+Make the story point for each task in Notion.

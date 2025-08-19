@@ -1,0 +1,1 @@
+Yesterday we learn how to implement the design from figma to HTML Tailwind CSS.
