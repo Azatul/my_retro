@@ -1,0 +1,2 @@
+Today I learn how to use link patch in sidebar so that the sidebar keep open when the main content is opened.
+Also update the image function so it can handle picture uploading for profile picture. 

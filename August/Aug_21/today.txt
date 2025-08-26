@@ -1,0 +1,3 @@
+Today I came across Ecto.Multi for deleting user profile and also user at the same time. 
+Added the profile form inside the setting and make it saved in the same livview as the user table data email and department.
+Make the relationship again for all.

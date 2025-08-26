@@ -1,0 +1,4 @@
+Today I continue with the vehicles assets CRUD, missed a few field and added it based on my design but messed up a bit, but can still improve.
+Also did the pagination, filtering and search bar for vehicle listing.
+I also learnt how to make the sidebar not scrollable.
+

@@ -1,0 +1,4 @@
+Today we make a pull request for the user profile and department liveview and merged to main. 
+Two tasks down.
+Tried to understand more about how to make the upload functional for the user profile.
+Continue the project with the vehicle assets crud.

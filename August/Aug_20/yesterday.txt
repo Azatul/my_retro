@@ -1,0 +1,2 @@
+Yesteday learn how to make show.ex into a component for view.
+Also how to make it patched to the same page.

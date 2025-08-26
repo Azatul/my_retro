@@ -1,0 +1,2 @@
+Today I made the correction for the pull request by fixing the admin only access, the department view, translate into Malay and resolve the error while saving user data.
+I also try to understand more about how to import sidebar into all the pages.
