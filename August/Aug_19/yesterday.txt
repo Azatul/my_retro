@@ -1,0 +1,1 @@
+Yesterday we did the render for index.ex by just adding the index.html.heex inside index.ex.
