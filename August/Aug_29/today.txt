@@ -1,0 +1,2 @@
+Today finally managed to debug the corrupted name column and filtering message.
+All done in context assets in the pagination function and also some in the accounts context adn the schemas.

@@ -1,0 +1,3 @@
+Today try do debug again. 
+The root of the bug is from the query, but when the bug for name is managed to be debugged, another bug appears.
+The rows multiplied eventhough there is only one data suddenly in filtering message became 13. 
